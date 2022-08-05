@@ -1,0 +1,11 @@
+{
+	"chequeId": "G0QND0LQD4G9HFK",
+	"beneficiarioDocumentoTipo": "CUIT",
+	"beneficiarioDocumento": "30500051163",
+	"firmantes": [
+		{
+			"documentoTipo": "CUIL",
+			"documento": "27367266916"
+		}
+	]
+}

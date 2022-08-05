@@ -1,11 +1,11 @@
-package main
+package programas
 
 import (
 	"fmt"
 	"strconv"
 )
 
-func main() {
+func tipo() {
 	edad := "22"
 
 	edad_int, _ := strconv.Atoi(edad)
